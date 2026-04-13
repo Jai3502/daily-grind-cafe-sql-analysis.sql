@@ -11,10 +11,10 @@ This project demonstrates real-world SQL skills including **schema design, index
 
 This SQL script simulates a café business database and performs advanced analysis on:
 
-* Customers 👤
-* Orders 🧾
-* Products 🍩
-* Branches 🏪
+* Customers 
+* Orders 
+* Producs 
+* Branches 
 
 It is structured as a **step-by-step learning and portfolio-ready project**. 
 
@@ -105,12 +105,12 @@ Pre-built views for real-world insights:
 
 ##  Business Insights You Can Derive
 
-* 💰 Total revenue and sales trends
-* 🏆 Top customers by lifetime value
-* 📍 Best-performing branches
-* 📦 Best-selling products
-* 📅 Monthly revenue patterns
-* ❌ Dead stock (products never ordered)
+*  Total revenue and sales trends
+*  Top customers by lifetime value
+*  Best-performing branches
+*  Best-selling products
+*  Monthly revenue patterns
+*  Dead stock (products never ordered)
 
 ---
 
@@ -164,12 +164,6 @@ Pre-built views for real-world insights:
 
 ##  Support
 
-If you found this helpful, consider giving this repo a ⭐!
-
----
-
-## 👨‍💻 Author
-
-SQL Data Analysis Project — Café Business Case Study
+If you found this helpful, consider giving this repo a !
 
 ---
